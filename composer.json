@@ -1,0 +1,19 @@
+{
+    "name": "absw7test/absw7test",
+    "description": "first desc",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "boolean",
+            "email": "boolean.wang@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Absw7test\\Tools\\":"src/Absw7test/Tools"
+        }
+    }
+}
